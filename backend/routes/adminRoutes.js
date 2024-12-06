@@ -2,9 +2,6 @@ const express = require('express');
 const { protect, requireRole } = require('../middleware/authMiddleware');
 const User = require('../models/User');
 
-
-
-
 const router = express.Router();
 
 // Fetch all users
