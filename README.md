@@ -1,9 +1,10 @@
 
-# team-binary_builders
+# Team-binary_builders
+This project is an end-to-end Restaurant Finder System, enabling users to search, review, and rate restaurants, while business owners can manage their listings and admins oversee platform integrity, with integration to Google Maps API for location-based searches. It features role-based functionality, secure backend (Node.js, MongoDB), and a responsive frontend (React), deployed on AWS.
 
-CMPE 202- Fall 2024
+**CMPE 202- Fall 2024**
 
-### Team:
+### Team Members:
 
 1.  Ajay Kumar Golla(018201430)
 2.  Paavani Karuturi(017643301)
@@ -28,10 +29,21 @@ CMPE 202- Fall 2024
 
 [[project Journals](https://docs.google.com/spreadsheets/d/13ifYS0cvCskVYWZeW7qtzdIvE56V-BZ0SJAOnOvEcyw/edit?usp=sharing)]
 
-#### [](https://github.com/gopinathsjsu/teamproject-infinite-loop#xp-values)XP Values:
+#### [](https://github.com/gopinathsjsu/teamproject-infinite-loop#xp-values)XP Core Values Maintained by Team:
 
-Feedback and Communication (Weekly status update calls) We communicated regularly online and offline. We had status updates twice every week through calls, zoom and whatsapp.  
-[Xp Link]
+**Simplicity** -
+Our approach prioritized implementing the simplest and most effective solutions. We designed the code to be modular and reusable, ensuring that it is easily understandable and modifiable by any team member in the future. Efforts were made to minimize code smells, and we included relevant comments for clarity. This approach has resulted in a straightforward code base that is easy to maintain.
+
+**Feedback** -
+By consistently giving and receiving feedback, we were able to learn, adapt to changes, and avoid repeating errors, enhancing our efficiency. Throughout the development process, we created pull requests and committed our changes to a branch. These changes were only merged into the master branch after receiving approval from another team member. This practice ensured that any updates to the master branch were stable and did not negatively impact other team members' work. Continuous feedback played a crucial role in aligning our goals and responsibilities.
+
+**Communication** -
+Effective communication was a cornerstone of our team's approach throughout the project. Initially, we collaboratively brainstormed the project's concept and distributed tasks among ourselves. We held regular sprint meetings where team members discussed challenges they encountered and conducted retrospectives on aspects that didn't go as planned. This open communication ensured a smooth project workflow and team synergy.  
+
+- *In-Person Meetings*: Conducted regular in-person discussions to plan, review, and track project progress.  
+- *WhatsApp Messaging*: Used WhatsApp for quick updates, queries, and coordination through a dedicated group chat.  
+- *Document Sharing*: Collaborated using Google Drive for sharing files and maintaining project documentation.  
+- *Flexible Communication*: Engaged in ad-hoc discussions and brainstorming sessions as needed for seamless teamwork.
 
 #### [](https://github.com/gopinathsjsu/teamproject-infinite-loop#how-to-run-the-web-app)How to run the web-app:
 
