@@ -12,8 +12,6 @@ const {
 
 const router = express.Router();
 
-
-
 // Set up multer for file uploads
 const upload = multer({ dest: 'uploads/' });
 
