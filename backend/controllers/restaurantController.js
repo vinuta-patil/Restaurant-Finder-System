@@ -4,7 +4,6 @@ exports.getRestaurantDetails = async (req, res) => {
   const { placeId } = req.params;
   const apiKey = process.env.GOOGLE_PLACES_API_KEY;
 
-
   
   // Validate the placeId
   if (!placeId) {
