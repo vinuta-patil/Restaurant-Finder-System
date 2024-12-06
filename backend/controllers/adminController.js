@@ -4,8 +4,6 @@ const User = require('../models/User');
 
 const router = express.Router();
 
-
-
 // Fetch all users
 router.get('/users', protect, requireRole('Admin'), async (req, res) => {
     try {
