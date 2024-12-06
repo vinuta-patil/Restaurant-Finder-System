@@ -23,6 +23,7 @@ exports.addRestaurant = async (req, res) => {
     } catch (error) {
         console.error('Error adding restaurant:', error.message);
         res.status(500).json({ message: 'Failed to add restaurant.' });
+        
     }
 };
 
