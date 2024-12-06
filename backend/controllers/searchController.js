@@ -22,8 +22,6 @@ exports.searchRestaurants = async (req, res) => {
       return res.status(404).json({ error: 'No restaurants found matching the criteria.' });
     }
 
-    
-
     let restaurants = response.data.results;
 
     if (minRating) {
