@@ -5,6 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUtensils } from '@fortawesome/free-solid-svg-icons';
 import RestaurantCard from '../components/RestaurantCard';
 
+
 const LandingPage = () => {
   const backendUrl = process.env.REACT_APP_BACKEND;
   const [restaurants, setRestaurants] = useState([]);
