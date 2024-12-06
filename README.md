@@ -8,12 +8,12 @@ CMPE 202- Fall 2024
 1.  Ajay Kumar Golla(018201430)
 2.  Paavani Karuturi(017643301)
 3.  Teja Swaroop Reddy Mareddy(017405765)
-4.  Vinuta Pati(018196035)
+4.  Vinuta Patil(018196035)
 
-#### [](https://github.com/gopinathsjsu/teamproject-infinite-loop#TeamContributions)Team Contributions:
+#### [](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders#TeamContributions)Team Contributions:
 
 
-#### [](https://github.com/gopinathsjsu/teamproject-infinite-loop#git-repo)Git repo:
+#### [](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders#git-repo)Git repo:
 
 [https://github.com/gopinathsjsu/teamproject-infinite-loop](https://github.com/gopinathsjsu/teamproject-infinite-loop)
 
