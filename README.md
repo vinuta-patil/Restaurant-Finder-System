@@ -16,7 +16,7 @@ This project is an end-to-end Restaurant Finder System, enabling users to search
 
 #### [](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders#git-repo)Git repo:
 
-[https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders](https://github.com/gopinathsjsu/teamproject-infinite-loop](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders))
+[https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders))
 
 #### [](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders)Project board:
 
