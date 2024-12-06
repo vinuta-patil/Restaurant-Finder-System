@@ -17,8 +17,6 @@ exports.getProfile = async (req, res) => {
   }
 };
 
-
-
 // Update User Profile
 exports.updateProfile = async (req, res) => {
   try {
