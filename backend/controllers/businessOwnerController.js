@@ -27,6 +27,7 @@ exports.addRestaurant = async (req, res) => {
     }
 };
 
+
 // Get restaurants owned by the logged-in BusinessOwner
 exports.getMyRestaurants = async (req, res) => {
     try {
