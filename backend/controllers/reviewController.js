@@ -23,7 +23,6 @@ exports.getReviews = async (req, res) => {
   }
 };
 
-
 exports.addReview = async (req, res) => {
   const { placeId } = req.params;
   const { comment, rating } = req.body;
