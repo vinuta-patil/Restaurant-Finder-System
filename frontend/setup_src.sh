@@ -215,3 +215,5 @@ cat <<EOL > src/App.css
 EOL
 
 echo "React src folder structure and files have been set up!"
+
+
