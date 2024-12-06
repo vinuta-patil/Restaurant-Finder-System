@@ -5,6 +5,8 @@ exports.fetchRestaurants = async (req, res) => {
   const { location, radius = 5000, type = 'restaurant' } = req.body;
   const apiKey = process.env.GOOGLE_PLACES_API_KEY;
 
+  
+
   try {
     if (!location) {
       return res.status(400).json({ error: 'Location is required.' });
