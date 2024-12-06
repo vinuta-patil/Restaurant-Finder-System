@@ -22,7 +22,6 @@ ReactDOM.render(
 );
 EOL
 
-
 # Create App.js
 cat <<EOL > src/App.js
 import React from 'react';
