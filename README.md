@@ -31,9 +31,7 @@ Teja Swaroop Reddy Mareddy - Business Owner Page Creation
 #### [](https://1drv.ms/x/s!AsU8b0Z-kOxugooX7N8F4u4qlo_1IA?e=Rk0X1o)Sprint Task Sheet:
 
 [https://1drv.ms/x/s!AsU8b0Z-kOxugooX7N8F4u4qlo_1IA?e=Rk0X1o](https://1drv.ms/x/s!AsU8b0Z-kOxugooX7N8F4u4qlo_1IA?e=Rk0X1o)
-#### []()Project journal:
 
-[[project Journals]()]
 
 #### [](https://github.com/gopinathsjsu/teamproject-infinite-loop#xp-values)XP Core Values Maintained by Team:
 
