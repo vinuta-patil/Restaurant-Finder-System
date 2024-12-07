@@ -6,10 +6,10 @@ This project is an end-to-end Restaurant Finder System, enabling users to search
 
 ### Team Members:
 
-1.  Ajay Kumar Golla(018201430)
-2.  Paavani Karuturi(017643301)
-3.  Teja Swaroop Reddy Mareddy(017405765)
-4.  Vinuta Patil(018196035)
+1.  Ajay Kumar Golla(018201430) - Search Filter Integration
+2.  Vinuta Patil(018196035) - Fetching Data in card components
+3.  Paavani Karuturi(017643301) - Admin Page Creation
+4.  Teja Swaroop Reddy Mareddy(017405765) - Business Owner Page Creation
 
 #### [](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders#TeamContributions)Team Contributions:
 
@@ -49,26 +49,21 @@ Effective communication was a cornerstone of our team's approach throughout the 
 
 -   Step 1: Clone the app by command " git clone "
 -  Step 2: Go to the client directory and install node modules by command "npm i OR npm install"
--   Step 3: Run the client by command "npm run dev"
--   Step 4: Go to the server directory and install node modules "npm i OR npm install"
--   Step 5: Run the server by command "npm run start"
+-   Step 3: Run the client by command "npm start"
+-   Step 4: Go to the server directory and install node modules "npm i -y OR npm install"
+-   Step 5: Run the server by command "node server.js"
 
 
 #### [](https://github.com/gopinathsjsu/teamproject-infinite-loop#feature-set)Feature Set:
 
- 🌟 Highlights
-
-- **Next.js**: For a seamless, server-rendered React experience
-- **Tailwind CSS & Material UI**: For stylish, responsive designs
-- **Daisy UI**: Extending Tailwind with beautiful component classes
-- **Zustand & ZOD**: For state management and validation schema
-- **JWT**: Secure authentication tokens for our API interactions
-- **MongoDB & Redis**: Persistent and in-memory databases for optimal performance
-- **SendGRID**: Reliable email service for user engagement
-- **Stripe**: Seamless and secure payment processing
-- **AWS Suite (S3, EC2)**: Robust and scalable cloud infrastructure
-- **NGINX**: High-performance web server setup
-- **Node.js & ExpressJS**: Efficient server-side scripting and API management
+ 🌟 Tech Stack
+- **MERN Stack**
+- **Developer Tools**: Github, VSCode
+- **FrontEnd**: React.js, Bootstrap 5
+- **BackEnd**: Node.js with express.js
+- **Deployment**: EC2 instance, loadbalncer in AWS
+- **Authentication**: JWT (JSON Web Token)
+- **DataBase**: MongoDB Atlas
 
 
 #### [](https://github.com/gopinathsjsu/teamproject-infinite-loop#design-decisions)Design Decisions:
@@ -102,7 +97,7 @@ Effective communication was a cornerstone of our team's approach throughout the 
 
 ## 🚀 Deployment
 
-Our API and database are deployed on AWS, leveraging auto-scaling EC2 clusters with a load balancer to ensure high availability and performance.
+Our API and database are deployed on AWS, leveraging auto-scaling EC2 clusters with a load balancer to ensure high availability and performance and for database, we have used MongoDB ATLAS cluster.
 
 ## 📲 User Interface
 
@@ -125,34 +120,9 @@ Accessible via web or mobile, our UI is meticulously designed to cater to Member
   - Configure theater seating and discounts
   - View analytics dashboard
 
-## 🎁 Extra Features Unique to MovieTheater Club
-
-- **Box Office Store**: A marketplace for movie merchandise.
-- **Private Screenings**: Book an entire theater for exclusive viewings.
-
-## 📊 Feature Comparison Table
-
-| Feature | BOX OFFICE | Others |
-|---------|-------------------|--------|
-| Merchandise Store | ✅ | ❌ |
-| Private Screenings | ✅ | ❌ |
-| Rewards Program | ✅ | ✅ |
-| Role-Based UI | ✅ | ✅ |
-| Multi-Location Support | ✅ | ❌ |
-
-## 📝 Requirements
-
-Our application stands out with its focus on team collaboration. The project's success is a testament to individual dedication and our collective synergy.
 
 ## 🧑‍💻 Contributing
 
 Interested in contributing? Great! We welcome pull requests, and for major changes, please open an issue first to discuss what you would like to change.
-
-## 📜 License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
----
-
 
 
