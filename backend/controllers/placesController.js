@@ -1,5 +1,6 @@
 const axios = require('axios');
 
+
 // Fetch restaurants from Google Places API
 exports.fetchRestaurants = async (req, res) => {
   const { location, radius = 5000, type = 'restaurant' } = req.body;
