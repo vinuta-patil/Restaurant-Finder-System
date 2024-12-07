@@ -55,9 +55,6 @@ Effective communication was a cornerstone of our team's approach throughout the 
 -   Step 4: Go to the server directory and install node modules "npm i -y OR npm install"
 -   Step 5: Run the server by command "node server.js"
 
-
-#### [](https://github.com/gopinathsjsu/teamproject-infinite-loop#feature-set)Feature Set:
-
  🌟 Tech Stack
 - **MERN Stack**
 - **Developer Tools**: Github, VSCode
@@ -69,7 +66,7 @@ Effective communication was a cornerstone of our team's approach throughout the 
 
 #### [](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/tree/main/UI%20Wireframes)UI Wireframes:
 
-[https://github.com/gopinathsjsu/teamproject-infinite-loop/tree/main/UI_Wireframes](https://github.com/gopinathsjsu/teamproject-infinite-loop/tree/main/UI_Wireframes)
+[https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/tree/main/UI%20Wireframes](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/tree/main/UI%20Wireframes)
 
 #### [](https://github.com/gopinathsjsu/teamproject-binary_builders#diagrams)Diagrams:
 
