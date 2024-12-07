@@ -67,11 +67,11 @@ Effective communication was a cornerstone of our team's approach throughout the 
 - **Authentication**: JWT (JSON Web Token)
 - **DataBase**: MongoDB Atlas
 
-#### [](https://github.com/gopinathsjsu/teamproject-infinite-loop#ui-wireframes)UI Wireframes:
+#### [](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/tree/main/UI%20Wireframes)UI Wireframes:
 
 [https://github.com/gopinathsjsu/teamproject-infinite-loop/tree/main/UI_Wireframes](https://github.com/gopinathsjsu/teamproject-infinite-loop/tree/main/UI_Wireframes)
 
-#### [](https://github.com/gopinathsjsu/teamproject-infinite-loop#diagrams)Diagrams:
+#### [](https://github.com/gopinathsjsu/teamproject-binary_builders#diagrams)Diagrams:
 
 ##### [](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/Component_diagram.jpeg)Component Diagram
 
