@@ -81,16 +81,24 @@ Effective communication was a cornerstone of our team's approach throughout the 
 
 #### [](https://github.com/gopinathsjsu/teamproject-infinite-loop#diagrams)Diagrams:
 
-##### [](https://github.com/gopinathsjsu/teamproject-infinite-loop#Component-Diagram)Component Diagram
+##### [](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/Component_diagram.jpeg)Component Diagram
 
-[![archd](https://raw.githubusercontent.com/Mahendra-Chittupolu/Mahendra/master/Untitled%20Diagram%20(1).jpg)](https://raw.githubusercontent.com/Mahendra-Chittupolu/Mahendra/master/Untitled%20Diagram%20(1).jpg)
+[![archd](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/Component_diagram.jpeg)](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/Component_diagram.jpeg)
+
+##### [](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/Deployment%20Diagram.jpeg)Deployment Diagram:
+
+[![Deployment diagram](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/Deployment%20Diagram.jpeg)](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/Deployment%20Diagram.jpeg)
 
 
-##### [](https://github.com/gopinathsjsu/team-project-code_team15#deployment-diagram)Deployment Diagram:
+##### [](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/Architecture%20Diagram.jpeg)Architecture Diagram
+[![arc](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/Architecture%20Diagram.jpeg)](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/Architecture%20Diagram.jpeg)
 
-[![Deployment diagram](https://raw.githubusercontent.com/Mahendra-Chittupolu/Mahendra/master/Untitled%20Diagram%20(2).jpg)](https://raw.githubusercontent.com/Mahendra-Chittupolu/Mahendra/master/Untitled%20Diagram%20(2).jpg)
 
+##### [](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/Class%20Diagram.jpeg)Class Diagram
+[![arc](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/Class%20Diagram.jpeg)](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/Class%20Diagram.jpeg)
 
+##### [](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/usecase.png)Use Case Diagram
+[![arc](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/usecase.png)](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/usecase.png)
 
 ## 🚀 Deployment
 
