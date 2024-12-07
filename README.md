@@ -6,10 +6,16 @@ This project is an end-to-end Restaurant Finder System, enabling users to search
 
 ### Team Members:
 
-1.  Ajay Kumar Golla(018201430) - Search Filter Integration
-2.  Vinuta Patil(018196035) - Fetching Data in card components
-3.  Paavani Karuturi(017643301) - Admin Page Creation
-4.  Teja Swaroop Reddy Mareddy(017405765) - Business Owner Page Creation
+1.  Ajay Kumar Golla(018201430) 
+2.  Vinuta Patil(018196035)
+3.  Paavani Karuturi(017643301) 
+4.  Teja Swaroop Reddy Mareddy(017405765) 
+
+### Areas of Contributions :-
+Ajay Kumar Golla - Search Filter Integration
+Vinuta Patil - Fetching Data in card components
+Paavani Karuturi - Admin Page Creation
+Teja Swaroop Reddy Mareddy - Business Owner Page Creation
 
 #### [](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders#TeamContributions)Team Contributions:
 
