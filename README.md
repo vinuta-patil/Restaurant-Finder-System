@@ -24,9 +24,9 @@ Teja Swaroop Reddy Mareddy - Business Owner Page Creation
 
 [https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders.git)
 
-#### [](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders)Project board:
+#### [](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/Sprint%20Journal%20-%20202%20Group(Sheet1).csv)Project Journal:
 
-[https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders)
+[https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/Sprint%20Journal%20-%20202%20Group(Sheet1).csv)
 
 #### []()Sprint Task Sheet:
 
@@ -70,11 +70,6 @@ Effective communication was a cornerstone of our team's approach throughout the 
 - **Deployment**: EC2 instance, loadbalncer in AWS
 - **Authentication**: JWT (JSON Web Token)
 - **DataBase**: MongoDB Atlas
-
-
-#### [](https://github.com/gopinathsjsu/teamproject-infinite-loop#design-decisions)Design Decisions:
-
---------Filll----
 
 #### [](https://github.com/gopinathsjsu/teamproject-infinite-loop#ui-wireframes)UI Wireframes:
 
