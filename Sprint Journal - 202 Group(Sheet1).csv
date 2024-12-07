@@ -1,0 +1,128 @@
+Paavani,Sprint Details,Task,
+,Sprint 1,What task did I work on/complete?,Started working on UI wireframes for registration and login pages.
+,,What am I planning to do to next?,Complete UI wireframes and start front-end layout.
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 2,What task did I work on/complete?,"Completed wireframes and created components (App.js, Header.jsx)"
+,,What am I planning to do to next?,Start working on frontend for login and registration forms.
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 3,What task did I work on/complete?,Worked on login and registration front-end forms (authRoutes.js).
+,,What am I planning to do to next?,Continue with UI development for restaurant listings and profile
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 4,What task did I work on/complete?,Created UI components for restaurant listings (restaurantRoutes.js).
+,,What am I planning to do to next?,Design UI for restaurant reviews submission.
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 5,What task did I work on/complete?,Developed review submission form UI.
+,,What am I planning to do to next?,Work on enhancing UI/UX of restaurant details page.
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 6,What task did I work on/complete?,Enhanced UI/UX on the restaurant details page.
+,,What am I planning to do to next?,Design and implement a user profile page UI. 
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 7,What task did I work on/complete?,Configure load balancer for handling traffic
+,,What am I planning to do to next?,Conduct bug fixes based on integration testing results.
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 8,What task did I work on/complete?,Worked on final bug fixes and optimizations.
+,,What am I planning to do to next?,Conduct final system testing.
+,,What tasks are blocked waiting on another team member?,None.
+Vinuta,Sprint Details,Task,
+,Sprint 1,What task did I work on/complete?,"Set up initial MongoDB schema (User.js, db.js)."
+,,What am I planning to do to next?,Connect MongoDB to Node.js backend.
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 2,What task did I work on/complete?,Set up database integration and completed db.js.
+,,What am I planning to do to next?,Define schema for reviews (Review.js).
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 3,What task did I work on/complete?,Defined Review.js schema and began backend integration for reviews
+,,What am I planning to do to next?,Connect review functionality to backend.
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 4,What task did I work on/complete?,Completed review functionality integration (reviewController.js). 
+,,What am I planning to do to next?, Connect Google Places search to the UI. 
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 5,What task did I work on/complete?,Connected Google Places to front-end search functionality. 
+,,What am I planning to do to next?,Add filter options for restaurant search. 
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 6,What task did I work on/complete?,Added search filters and sorted results for the restaurant listing. 
+,,What am I planning to do to next?,Test UI and perform integration testing.
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 7,What task did I work on/complete?,Frontend Deployment on Cloud 
+,,What am I planning to do to next?,Assist in final bug fixing and UI refinement.
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 8,What task did I work on/complete?,Assisted with final UI/UX improvements and testing.
+,,What am I planning to do to next?,Conduct final system testing. 
+,,What tasks are blocked waiting on another team member?,None.
+Ajay kumar golla,Sprint Details,Task,
+,Sprint 1,What task did I work on/complete?,"Created basic API routes for authentication (authController.js, authRoutes.js)."
+,,What am I planning to do to next?,Set up middleware (authMiddleware.js).
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 2,What task did I work on/complete?,Developed authentication APIs (authController.js).
+,,What am I planning to do to next?,Integrate API routes for user registration/login (authRoutes.js)
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 3,What task did I work on/complete?,Connected front-end to back-end (user registration and login).
+,,What am I planning to do to next?,Work on backend logic for business owners (businessOwnerController.js)
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 4,What task did I work on/complete?,Created business owner APIs (businessOwnerController.js).
+,,What am I planning to do to next?,Implement Google Places integration (googlePlaces.js).
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 5,What task did I work on/complete?,Integrated Google Places API for searching (googlePlaces.js).
+,,What am I planning to do to next?,Conduct testing on the backend APIs.
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 6,What task did I work on/complete?,Tested backend APIs and fixed bugs.
+,,What am I planning to do to next?,Create automated CI/CD pipeline.
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 7,What task did I work on/complete?,Set up the CI/CD pipeline for backend deployment.
+,,What am I planning to do to next?,Deploy front-end using AWS S3.
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 8,What task did I work on/complete?,Deployed the front-end using AWS S3.
+,,What am I planning to do to next?,Help create deployment documentation.
+,,What tasks are blocked waiting on another team member?,None.
+Teja Swaroop Reddy,Sprint Details,Task,
+,Sprint 1,What task did I work on/complete?,Set up GitHub repository and initial project structure.
+,,What am I planning to do to next?,Configure initial server setup (server.js).
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 2,What task did I work on/complete?,Set up Express server (server.js).
+,,What am I planning to do to next?,Develop REST APIs for restaurants (restaurantController.js).
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 3,What task did I work on/complete?,Developed restaurant APIs (restaurantController.js).
+,,What am I planning to do to next?,Develop search functionality (searchController.js)
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 4,What task did I work on/complete?,Developed search APIs (searchController.js)
+,,What am I planning to do to next?,Develop API for profile management (profileController.js).
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 5,What task did I work on/complete?,Developed profile management API (profileController.js).
+,,What am I planning to do to next?,Implement middleware for error handling (errorMiddleware.js).
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 6,What task did I work on/complete?,Added error handling middleware (errorMiddleware.js).
+,,What am I planning to do to next?,Prepare the application for deployment (server.js).
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 7,What task did I work on/complete?,Prepared server and environment for deployment.
+,,What am I planning to do to next?,Deploy backend on AWS EC2.
+,,What tasks are blocked waiting on another team member?,None.
+,,,
+,Sprint 8,What task did I work on/complete?,Deployed the backend on AWS EC2.
+,,What am I planning to do to next?,Prepare demo for presentation.
+,,What tasks are blocked waiting on another team member?,None.
