@@ -1,6 +1,5 @@
 const Both = require('../models/Both');
 
-
 // Add a new restaurant
 exports.addRestaurant = async (req, res) => {
     try {
