@@ -28,9 +28,9 @@ Teja Swaroop Reddy Mareddy - Business Owner Page Creation
 
 [https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/Sprint%20Journal%20-%20202%20Group(Sheet1).csv)
 
-#### []()Sprint Task Sheet:
+#### [](https://1drv.ms/x/s!AsU8b0Z-kOxugooX7N8F4u4qlo_1IA?e=Rk0X1o)Sprint Task Sheet:
 
-[[excelLink]()]
+[https://1drv.ms/x/s!AsU8b0Z-kOxugooX7N8F4u4qlo_1IA?e=Rk0X1o](https://1drv.ms/x/s!AsU8b0Z-kOxugooX7N8F4u4qlo_1IA?e=Rk0X1o)
 #### []()Project journal:
 
 [[project Journals]()]
