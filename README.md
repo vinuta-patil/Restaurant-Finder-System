@@ -5,7 +5,6 @@ This project is an end-to-end Restaurant Finder System, enabling users to search
 **CMPE 202- Fall 2024**
 
 ### Team Members:
-
 1.  Ajay Kumar Golla(018201430) 
 2.  Vinuta Patil(018196035)
 3.  Paavani Karuturi(017643301) 
