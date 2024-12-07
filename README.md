@@ -22,12 +22,12 @@ This project is an end-to-end Restaurant Finder System, enabling users to search
 
 [https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders)
 
-#### [](https://github.com/gopinathsjsu/teamproject-infinite-loop#sprint-task-sheet)Sprint Task Sheet:
+#### []()Sprint Task Sheet:
 
-[[excelLink](https://docs.google.com/spreadsheets/d/1MSPdcmwkwZXbuFtzDVEz78sek2BK80BRWdIDJ6g_dJU/edit#gid=0)]
-#### [](https://github.com/gopinathsjsu/teamproject-infinite-loop#project-journal)Project journal:
+[[excelLink]()]
+#### []()Project journal:
 
-[[project Journals](https://docs.google.com/spreadsheets/d/13ifYS0cvCskVYWZeW7qtzdIvE56V-BZ0SJAOnOvEcyw/edit?usp=sharing)]
+[[project Journals]()]
 
 #### [](https://github.com/gopinathsjsu/teamproject-infinite-loop#xp-values)XP Core Values Maintained by Team:
 
