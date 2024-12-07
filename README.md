@@ -16,7 +16,6 @@ This project is an end-to-end Restaurant Finder System, enabling users to search
 3. Paavani Karuturi - Admin Page Creation
 4. Teja Swaroop Reddy Mareddy - Business Owner Page Creation
 
-#### [](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders#TeamContributions)Team Contributions:
 
 
 #### [](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders#git-repo)Git repo:
