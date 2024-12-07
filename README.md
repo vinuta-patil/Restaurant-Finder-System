@@ -103,23 +103,6 @@ Our API and database are deployed on AWS, leveraging auto-scaling EC2 clusters w
 
 Accessible via web or mobile, our UI is meticulously designed to cater to Members, Non-Members, and Theater Employees with role-specific functionalities.
 
-## 🛠️ Features
-
-- **General Access**:
-  - Home/Landing Page with theater info, schedules, and upcoming movies
-  - Membership options with benefits outlined
-  - Registration/Signup for new users
-  - Movie ticket booking with an online service fee
-
-- **Members**:
-  - Personalized member page
-  - Book/cancel tickets, use rewards, and waive service fees (Premium)
-  
-- **Theater Employees**:
-  - Manage movie schedules
-  - Configure theater seating and discounts
-  - View analytics dashboard
-
 
 ## 🧑‍💻 Contributing
 
