@@ -18,20 +18,6 @@ This project is an end-to-end Restaurant Finder System, enabling users to search
 
 
 
-#### [](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders#git-repo)Git repo:
-
-[https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders.git)
-
-#### [](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/Sprint%20Journal%20-%20202%20Group(Sheet1).csv)Project Journal:
-
-[https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/Sprint%20Journal%20-%20202%20Group(Sheet1).csv)
-
-#### [](https://1drv.ms/x/s!AsU8b0Z-kOxugooX7N8F4u4qlo_1IA?e=Rk0X1o)Sprint Task Sheet:
-
-[https://1drv.ms/x/s!AsU8b0Z-kOxugooX7N8F4u4qlo_1IA?e=Rk0X1o](https://1drv.ms/x/s!AsU8b0Z-kOxugooX7N8F4u4qlo_1IA?e=Rk0X1o)
-
-
-#### [](https://github.com/gopinathsjsu/teamproject-infinite-loop#xp-values)XP Core Values Maintained by Team:
 
 **Simplicity** -
 Our approach prioritized implementing the simplest and most effective solutions. We designed the code to be modular and reusable, ensuring that it is easily understandable and modifiable by any team member in the future. Efforts were made to minimize code smells, and we included relevant comments for clarity. This approach has resulted in a straightforward code base that is easy to maintain.
