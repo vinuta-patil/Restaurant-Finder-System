@@ -50,30 +50,7 @@ Effective communication was a cornerstone of our team's approach throughout the 
 - **Authentication**: JWT (JSON Web Token)
 - **DataBase**: MongoDB Atlas
 
-#### [](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/tree/main/UI%20Wireframes)UI Wireframes:
 
-[https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/tree/main/UI%20Wireframes](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/tree/main/UI%20Wireframes)
-
-#### [](https://github.com/gopinathsjsu/teamproject-binary_builders#diagrams)Diagrams:
-
-##### [](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/Component_diagram.jpeg)Component Diagram
-
-[![archd](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/Component_diagram.jpeg)](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/Component_diagram.jpeg)
-
-##### [](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/Deployment%20Diagram.jpeg)Deployment Diagram:
-
-[![Deployment diagram](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/Deployment%20Diagram.jpeg)](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/Deployment%20Diagram.jpeg)
-
-
-##### [](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/Architecture%20Diagram.jpeg)Architecture Diagram
-[![arc](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/Architecture%20Diagram.jpeg)](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/Architecture%20Diagram.jpeg)
-
-
-##### [](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/Class%20Diagram.jpeg)Class Diagram
-[![arc](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/Class%20Diagram.jpeg)](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/Class%20Diagram.jpeg)
-
-##### [](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/usecase.png)Use Case Diagram
-[![arc](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/usecase.png)](https://github.com/gopinathsjsu/team-project-cmpe202-01-binary_builders/blob/main/docs/diagrams/usecase.png)
 
 ## 🚀 Deployment
 
