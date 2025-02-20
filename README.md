@@ -1,5 +1,5 @@
 
-# Team-binary_builders
+# Restaurant-Finder-System
 This project is an end-to-end Restaurant Finder System, enabling users to search, review, and rate restaurants, while business owners can manage their listings and admins oversee platform integrity, with integration to Google Maps API for location-based searches. It features role-based functionality, secure backend (Node.js, MongoDB), and a responsive frontend (React), deployed on AWS.
 
 **CMPE 202- Fall 2024**
